@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/syrinezioudi/cart-react/static/css/main.e6c13ad2.css",
+    "main.js": "/syrinezioudi/cart-react/static/js/main.481c8f62.js",
+    "index.html": "/syrinezioudi/cart-react/index.html",
+    "main.e6c13ad2.css.map": "/syrinezioudi/cart-react/static/css/main.e6c13ad2.css.map",
+    "main.481c8f62.js.map": "/syrinezioudi/cart-react/static/js/main.481c8f62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.481c8f62.js"
+  ]
+}
